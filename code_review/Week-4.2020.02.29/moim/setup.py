@@ -18,8 +18,8 @@ about = get_about()
 
 setup(
     name='moim',                            # 모듈명
-    version=about['__version__'],                        # 버전
-    author=about['__author__'],                    # 저자
+    version=about['__version__'],           # 버전
+    author=about['__author__'],             # 저자
     description=about['__description__'],   # 설명
     packages=['moim'],
     python_requires='>=3.6.0',

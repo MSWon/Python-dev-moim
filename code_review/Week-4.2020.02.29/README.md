@@ -1,6 +1,6 @@
 # Week - 4
 ## 나만의 CLI 파이썬 패키지 만들기
-- CLI : Command Line Interface의 줄임말로 터미널을 통해 사용자와 컴퓨터가 상호 작용하는 방식을 뜻함
+- CLI : Command Line Interface의 줄임말로 터미널을 통해 사용자와 컴퓨터가 상호 작용하는 방식을 뜻함(ex: ls, cd )
 - setup.py를 통해 나만의 CLI 패키지를 설치 할 수 있음
 - **moim**이라는 이름의 패키지를 만들어 봄 
 - [참고사이트](https://sjquant.tistory.com/18)

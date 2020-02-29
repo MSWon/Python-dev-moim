@@ -37,13 +37,13 @@ $ moim --help
     -h, --help     show this help message and exit
     --version, -v  show program's version number and exit
 ```
-**2. moim clean 명령어 사용**
+**3. moim clean 명령어 사용**
 ```
 $ cd ../moim_test
 $ moim clean --input_path ./train.en --output_path ./train.en.clean
 >> cleaning finished
 ```
-**3. moim stats 명령어 사용**
+**4. moim stats 명령어 사용**
 ```
 $ moim stats --input_path ./train.en.clean -n 10
 >> statistics for top 10 frequent words in ./train.en.clean
